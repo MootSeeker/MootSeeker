@@ -18,21 +18,9 @@ location: Zürich, Switzerland 🇨🇭
 role:     Electrical Engineer
 
 currently_working_on: Tbd.
-passion:  Building reliable embedded systems & clean firmware
-motto:    "Hardware is hard, but firmware makes it work."
+passion:  Bringing hardware to life with firmware
+motto:    "Engineering the soul of machines."
 ```
-
-<table>
-<tr>
-<td>⚡</td><td>Electrical Engineer with a love for low-level programming</td>
-</tr>
-<tr>
-<td>📱</td><td>Currently exploring mobile app development with React Native</td>
-</tr>
-<tr>
-<td>🏢</td><td>Contributing to <a href="https://github.com/Perillion">@Perillion</a></td>
-</tr>
-</table>
 
 ---
 
