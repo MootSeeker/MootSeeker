@@ -17,7 +17,7 @@ name:     MootSeeker
 location: Zürich, Switzerland 🇨🇭
 role:     Electrical Engineer
 
-currently_working_on: MenuMate — A smart calorie tracker app
+currently_working_on: Tbd.
 passion:  Building reliable embedded systems & clean firmware
 motto:    "Hardware is hard, but firmware makes it work."
 ```
@@ -25,12 +25,6 @@ motto:    "Hardware is hard, but firmware makes it work."
 <table>
 <tr>
 <td>⚡</td><td>Electrical Engineer with a love for low-level programming</td>
-</tr>
-<tr>
-<td>🔌</td><td>PCB designer — from schematic to production-ready boards</td>
-</tr>
-<tr>
-<td>🧠</td><td>Firmware developer — STM32, FreeRTOS, bare-metal & beyond</td>
 </tr>
 <tr>
 <td>📱</td><td>Currently exploring mobile app development with React Native</td>
@@ -82,78 +76,6 @@ motto:    "Hardware is hard, but firmware makes it work."
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 [STM32 Embedded C++](https://github.com/MootSeeker/STM32_Embedded_CPP)
-Modern C++ on STM32 — clean hardware abstractions & efficient HAL wrappers. A research & learning project for idiomatic embedded C++.
-
-![Stars](https://img.shields.io/github/stars/MootSeeker/STM32_Embedded_CPP?style=flat-square&color=58a6ff)
-![Forks](https://img.shields.io/github/forks/MootSeeker/STM32_Embedded_CPP?style=flat-square&color=8b949e)
-![Language](https://img.shields.io/github/languages/top/MootSeeker/STM32_Embedded_CPP?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 [MenuMate](https://github.com/MootSeeker/MenuMate)
-A calorie tracker that doesn't make you count. Select products and menus — the app does the math. Built with React Native & Expo.
-
-![Stars](https://img.shields.io/github/stars/MootSeeker/MenuMate?style=flat-square&color=58a6ff)
-![Language](https://img.shields.io/github/languages/top/MootSeeker/MenuMate?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/MootSeeker/MenuMate?style=flat-square&color=8b949e)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 [CANShield](https://github.com/MootSeeker/CANShield)
-STM32 Nucleo-64 development shield featuring NXP TJA1443 CAN-FD transceiver, memory, and GPS probe interface.
-
-![Stars](https://img.shields.io/github/stars/MootSeeker/CANShield?style=flat-square&color=58a6ff)
-![Topics](https://img.shields.io/badge/CAN--FD_%7C_NXP_%7C_STM32-161b22?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 💾 [IS25LPXXXE Driver](https://github.com/MootSeeker/IS25LPXXXE-Driver)
-Production-ready, modular STM32 SPI Flash driver. Handle-based & multi-instance architecture with comprehensive docs.
-
-![Stars](https://img.shields.io/github/stars/MootSeeker/IS25LPXXXE-Driver?style=flat-square&color=58a6ff)
-![Language](https://img.shields.io/github/languages/top/MootSeeker/IS25LPXXXE-Driver?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ [Battery Calculator](https://github.com/MootSeeker/batteryCalculator)
-Cross-platform desktop app for battery parameter calculations. Built with Python & Tkinter — ideal for engineers needing precise battery data.
-
-![Stars](https://img.shields.io/github/stars/MootSeeker/batteryCalculator?style=flat-square&color=58a6ff)
-![Language](https://img.shields.io/github/languages/top/MootSeeker/batteryCalculator?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 👆 [FT6236 Touch Driver](https://github.com/MootSeeker/FT6236)
-STM32 HAL driver for the FT6236 capacitive touch screen controller over I²C.
-
-![Stars](https://img.shields.io/github/stars/MootSeeker/FT6236?style=flat-square&color=58a6ff)
-![Forks](https://img.shields.io/github/forks/MootSeeker/FT6236?style=flat-square&color=8b949e)
-![Language](https://img.shields.io/github/languages/top/MootSeeker/FT6236?style=flat-square)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -165,33 +87,20 @@ STM32 HAL driver for the FT6236 capacitive touch screen controller over I²C.
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MootSeeker&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" height="180"/>
 
-</div>
+<br/>
 
----
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=MootSeeker&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="90%"/>
 
-## 🗂️ What You'll Find Here
+<br/>
 
-<div align="center">
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MootSeeker&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="95%"/>
 
-| Category | Description |
-|:---:|:---|
-| 🔩 **Embedded Drivers** | Production-ready STM32 drivers for SPI Flash, touch controllers, CAN, LEDs |
-| 🛡️ **Dev Shields & PCBs** | Hardware designs for prototyping — CAN, BLE, display interfaces |
-| 🤖 **RTOS & Architecture** | FreeRTOS examples, bootloaders, event-driven firmware patterns |
-| 📱 **App Development** | Cross-platform applications with React Native and Python |
-| 🎓 **Learning & Research** | Modern C++ for embedded, tutorials, and experiments |
+<br/>
 
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-MootSeeker-181717?style=for-the-badge&logo=github)](https://github.com/MootSeeker)
-[![Email](https://img.shields.io/badge/Email-mootseeker98-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mootseeker98@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Zürich,_Switzerland-0d1117?style=for-the-badge)]()
+<!-- Detailed Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MootSeeker&theme=github_dark" width="95%"/>
 
 </div>
 
