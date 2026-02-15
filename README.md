@@ -10,20 +10,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```yaml
-name:     MootSeeker
-location: Zürich, Switzerland 🇨🇭
-role:     Electrical Engineer
-
-currently_working_on: Tbd.
-passion:  Bringing hardware to life with firmware
-motto:    "Engineering the soul of machines."
-```
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
