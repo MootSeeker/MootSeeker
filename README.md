@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=MootSeeker&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=⚡%20Electrical%20Engineer%20|%20Embedded%20Systems%20|%20PCB%20Design&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=MootSeeker&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=⚡%20Electrical%20Engineer%20|%20Embedded%20Systems%20|%20Firmware%20Development&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=Turning+coffee+%E2%98%95+into+circuits+%26+code)](https://git.io/typing-svg)
