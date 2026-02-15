@@ -55,17 +55,17 @@ motto:    "Hardware is hard, but firmware makes it work."
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 #### Embedded & Hardware
-
-**Microcontrollers & PCB Design**  
+ 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Microchip](https://img.shields.io/badge/Microchip-EE3124?style=for-the-badge&logoColor=white)
 ![Nordic](https://img.shields.io/badge/Nordic-0033A0?style=for-the-badge&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 
-**Embedded Software & RTOS**  
+#### Embedded Software
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=for-the-badge&logoColor=white)
 ![Zephyr](https://img.shields.io/badge/Zephyr-0F0080?style=for-the-badge&logo=zephyrproject&logoColor=white)
+![Bare Metal](https://img.shields.io/badge/Bare_Metal-8B4513?style=for-the-badge&logoColor=white)
 
 #### Protocols & Interfaces
 ![CAN Bus](https://img.shields.io/badge/CAN_Bus-FF6F00?style=for-the-badge&logoColor=white)
