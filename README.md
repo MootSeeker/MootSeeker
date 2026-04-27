@@ -1,60 +1,39 @@
-<div align="center">
+<p align="left">
+	<img src="https://img.shields.io/badge/powered%20by-coffee-5D9732?style=for-the-badge&labelColor=3A3F4B&color=77C043&logo=buymeacoffee&logoColor=white" alt="Powered by Coffee" />
+    <img src="https://img.shields.io/badge/made%20with-C-A83232?style=for-the-badge&labelColor=3A3F4B&color=D64545" alt="Made with C" />
+	<img src="https://img.shields.io/badge/made%20with-C%2B%2B-1F6FB2?style=for-the-badge&labelColor=3A3F4B&color=2F89D9" alt="Made with C++" />
+	<img src="https://img.shields.io/badge/uses-GIT-2B9BC8?style=for-the-badge&labelColor=3A3F4B&color=47B8DE&logo=git&logoColor=white" alt="Uses GIT" />
+</p>
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=MootSeeker&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=⚡%20Electrical%20Engineer%20|%20Embedded%20Systems%20|%20Firmware%20Development&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+# Hi, I'm MootSeeker
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=Turning+coffee+%E2%98%95+into+circuits+%26+code)](https://git.io/typing-svg)
+Electrical engineer focused on embedded systems, firmware development, and practical hardware-software integration.
 
-</div>
+- Working across low-level firmware, board bring-up, and communication interfaces
+- Most at home with STM32, Nordic, and Microchip platforms
+- Interested in RTOS-based systems, bare-metal development, and robust tooling
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-#### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-#### Embedded & Hardware
- 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Microchip](https://img.shields.io/badge/Microchip-EE3124?style=for-the-badge&logoColor=white)
-![Nordic](https://img.shields.io/badge/Nordic-0033A0?style=for-the-badge&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-
-#### Embedded Software
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=for-the-badge&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr-0F0080?style=for-the-badge&logo=zephyrproject&logoColor=white)
-![Bare Metal](https://img.shields.io/badge/Bare_Metal-8B4513?style=for-the-badge&logoColor=white)
-
-#### Protocols & Interfaces
-![CAN Bus](https://img.shields.io/badge/CAN_Bus-FF6F00?style=for-the-badge&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-607D8B?style=for-the-badge&logoColor=white)
-![I2C](https://img.shields.io/badge/I²C-009688?style=for-the-badge&logoColor=white)
-![USB](https://img.shields.io/badge/USB-1A73E8?style=for-the-badge&logo=usb&logoColor=white)
-![UART](https://img.shields.io/badge/UART-795548?style=for-the-badge&logoColor=white)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
+<div align="Left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MootSeeker&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" height="180"/>
+
+</div>
+
+## Focus Areas
+
+- Languages: C, C++, Python, TypeScript, C#, Rust
+- Embedded: STM32, Nordic, Microchip, FreeRTOS, Zephyr, Bare Metal
+- Hardware: KiCad, Altium
+- Interfaces: CAN, SPI, I2C, USB, UART
+- Tooling: Git, GitHub Actions
+
+---
+
+<details>
+<summary>More stats</summary>
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MootSeeker&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180"/>
 
 <br/>
@@ -78,16 +57,12 @@
 
 </div>
 
+</details>
+
 ---
 
-<div align="center">
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=MootSeeker&style=flat-square&color=1f6feb&label=Profile+Views" alt="Profile Views" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=MootSeeker&style=flat-square&color=1f6feb&label=Profile+Views" />
 
-<br/><br/>
-
-*⚡ Built with passion for embedded systems — one register at a time.*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
