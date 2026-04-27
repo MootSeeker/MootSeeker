@@ -1,56 +1,23 @@
-<div align="center">
+# Hi, I'm MootSeeker
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=MootSeeker&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=⚡%20Electrical%20Engineer%20|%20Embedded%20Systems%20|%20Firmware%20Development&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+Electrical engineer focused on embedded systems, firmware development, and practical hardware-software integration.
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=50&lines=Turning+coffee+%E2%98%95+into+circuits+%26+code)](https://git.io/typing-svg)
+- Working across low-level firmware, board bring-up, and communication interfaces
+- Most at home with STM32, Nordic, and Microchip platforms
+- Interested in RTOS-based systems, bare-metal development, and robust tooling
 
-</div>
+## Focus Areas
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-#### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-#### Embedded & Hardware
- 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Microchip](https://img.shields.io/badge/Microchip-EE3124?style=for-the-badge&logoColor=white)
-![Nordic](https://img.shields.io/badge/Nordic-0033A0?style=for-the-badge&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-
-#### Embedded Software
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=for-the-badge&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr-0F0080?style=for-the-badge&logo=zephyrproject&logoColor=white)
-![Bare Metal](https://img.shields.io/badge/Bare_Metal-8B4513?style=for-the-badge&logoColor=white)
-
-#### Protocols & Interfaces
-![CAN Bus](https://img.shields.io/badge/CAN_Bus-FF6F00?style=for-the-badge&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-607D8B?style=for-the-badge&logoColor=white)
-![I2C](https://img.shields.io/badge/I²C-009688?style=for-the-badge&logoColor=white)
-![USB](https://img.shields.io/badge/USB-1A73E8?style=for-the-badge&logo=usb&logoColor=white)
-![UART](https://img.shields.io/badge/UART-795548?style=for-the-badge&logoColor=white)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
+- Languages: C, C++, Python, TypeScript, C#, Rust
+- Embedded: STM32, Nordic, Microchip, FreeRTOS, Zephyr, Bare Metal
+- Hardware: KiCad, Altium
+- Interfaces: CAN, SPI, I2C, USB, UART
+- Tooling: Git, GitHub Actions
 
 ---
 
-## 📊 GitHub Stats
+<details>
+<summary>GitHub Stats</summary>
 
 <div align="center">
 
@@ -78,16 +45,16 @@
 
 </div>
 
+</details>
+
 ---
 
-<div align="center">
+<p align="left">
+	<img src="https://komarev.com/ghpvc/?username=MootSeeker&style=flat-square&color=1f6feb&label=Profile+Views" alt="Profile Views" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=MootSeeker&style=flat-square&color=1f6feb&label=Profile+Views" />
-
-<br/><br/>
-
-*⚡ Built with passion for embedded systems — one register at a time.*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
+<p align="center">
+	<a href="https://buymeacoffee.com/MootSeeker">
+		<img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee" />
+	</a>
+</p>
