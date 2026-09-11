@@ -15,16 +15,14 @@ Electrical engineer focused on embedded systems, firmware development, and pract
 - I’m currently studying Electrical Engineering at the [University of Applied Sciences and Arts Northwestern Switzerland (FHNW)](https://www.fhnw.ch/en)
 <div align="Left">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MootSeeker&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" height="180"/>
-
 </div>
 
 ## Focus Areas
 
-- Languages: C, C++, Python, TypeScript, C#, Rust
+- Languages: C, C++, Python, Swift, C#, Rust
 - Embedded: STM32, Nordic, Microchip, FreeRTOS, Zephyr, Bare Metal
 - Hardware: KiCad, Altium
-- Interfaces: CAN, SPI, I2C, USB, UART
+- Interfaces: CAN, SPI, I2C, USB, UART, NFC, BLE
 - Tooling: Git, GitHub Actions
 
 ---
